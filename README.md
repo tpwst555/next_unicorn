@@ -24,4 +24,4 @@ next_unicorn is not just another demo project. It’s a **revolutionary non-prod
 
 ## 🚀 Getting Started
 
-well actually, not anything to do 🤷‍♂️
+Well actually, not anything to do 🤷‍♂️
