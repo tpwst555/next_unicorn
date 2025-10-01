@@ -16,7 +16,7 @@ next_unicorn is not just another demo project. It’s a **revolutionary non-prod
 
 ## 🛠️ Tech Stack
 
-- **Svelte**: Because React is too mainstream.  
+- **Svelte**: because React is too mainstream.  
 - **Typescript**: all any types. Type error? just cast it - that's right, we're lean
 - **Hope & Hype**: the most scalable technology stack of all.  
 
