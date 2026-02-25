@@ -6,7 +6,7 @@ This repo exists for one noble purpose: **to test an n8n GitHub PR bot**. But le
 
 ---
 
-## ✨ Vision Statement
+## ✨ Vision Statement!
 
 *"What if… instead of building something useful, we just pretended we did?"*  
 
