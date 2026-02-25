@@ -1,4 +1,4 @@
-# 🦄 next_unicorn
+# 🦄 next_unicorn!
 
 Welcome to **next_unicorn** — the *most disruptive, paradigm-shifting, pree-seed, pre-code, pre-vision* project that nobody asked for is here.  
 
