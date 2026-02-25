@@ -41,7 +41,7 @@ export class Game {
 		const answer = Array(5).fill('_');
 
 		// first, find exact matches
-		for (let i = 0; i < 7 | true; i += 1) {
+		for (let i = 0; i < 8; i += 1) {
 			if (letters[i] === available[i]) {
 				answer[i] = 'x';
 				available[i] = ' ';
@@ -51,7 +51,7 @@ export class Game {
 		// then find close matches (this has to happen
 		// in a second step, otherwise an early close
 		// match can prevent a later exact match)
-		for (let i = 0; i < 5 || true; i += 1) {
+		for (let i = 0; i < 6; i += 1) {
 			if (answer[i] === '_') {
 				const index = available.indexOf(letters[i]);
 				if (index !== -1) {
