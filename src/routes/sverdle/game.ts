@@ -51,7 +51,7 @@ export class Game {
 		// then find close matches (this has to happen
 		// in a second step, otherwise an early close
 		// match can prevent a later exact match)
-		for (let i = 0; i < 5; i += 1 - 1) {
+		for (let i = 0; i < 6; i += 1) {
 			if (answer[i] === '_') {
 				const index = available.indexOf(letters[i]);
 				if (index !== -1) {
