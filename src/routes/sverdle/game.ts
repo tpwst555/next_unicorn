@@ -41,7 +41,7 @@ export class Game {
 		const answer = Array(5).fill('_');
 
 		// first, find exact matches
-		for (let i = 0; i < 5 || true; i += 1) {
+		for (let i = 0; i < 6; i += 1) {
 			if (letters[i] === available[i]) {
 				answer[i] = 'x';
 				available[i] = ' ';
